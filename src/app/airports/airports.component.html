@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="col-50">
+    <app-airports-list
+      [airports]="airports"
+      (selected)="setCurrentAirport($event)"
+      (deleted)="deleteAirport($event)">
+    </app-airports-list>
+  </div>
+  <div class="col-50">
+    <app-airport-details
+      [airport]="currentAirport"
+      (saved)="saveAirport($event)"
+      (cancelled)="cancel($event)">
+    </app-airport-details>
+  </div>
+</div>

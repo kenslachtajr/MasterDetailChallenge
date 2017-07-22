@@ -1,0 +1,23 @@
+<md-card>
+  <md-card-header>
+    <md-card-title>
+      <h1>Flights</h1>
+    </md-card-title>
+  </md-card-header>
+  <md-card-content>
+    <md-list>
+      <md-list-item
+        *ngFor="let flight of flights"
+        (click)="selected.emit(flight)">
+        <h3 md-line>Flight Number: {{flight.flightSegments[0].flightNumber}}</h3>
+          <button md-icon-button (click)="deleted.emit(flight);$event.stopImmediatePropagation();">
+          <md-icon>close</md-icon>
+        </button>
+        <p md-line>
+          Origin: {{flight.flightSegments[0].legs[0].origin}}
+          Destination: {{flight?.flightSegments[0]?.legs[0]?.destination}}
+        </p>
+      </md-list-item>
+    </md-list>
+  </md-card-content>
+</md-card>

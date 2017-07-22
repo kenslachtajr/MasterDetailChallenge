@@ -1,0 +1,44 @@
+<md-card>
+  <md-card-header>
+    <md-card-title>
+      <h1 *ngIf="currentAirport.id; else prompt">Editing {{currentAirport.airportName}}</h1>
+      <ng-template #prompt><h1>Create</h1></ng-template>
+    </md-card-title>
+  </md-card-header>
+  <md-card-content>
+    <form #formRef="ngForm">
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Iata Code"
+               [(ngModel)]="currentAirport.iataCode" name="cabinType">
+      </md-input-container>
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Iata Name"
+               [(ngModel)]="currentAirport.iataName" name="iataName">
+      </md-input-container>
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Airport Name"
+               [(ngModel)]="currentAirport.airportName" name="cabinType">
+      </md-input-container>
+      <md-input-container class="full-width">
+        <input mdInput placeholder="City Name"
+               [(ngModel)]="currentAirport.cityName" name="cityName">
+      </md-input-container>
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Time Offset"
+               [(ngModel)]="currentAirport.timeZoneGmtOffset" name="timeZoneOffset">
+      </md-input-container>
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Time Zone ID"
+               [(ngModel)]="currentAirport.timeZoneId" name="timeZoneID">
+      </md-input-container>
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Country Code"
+               [(ngModel)]="currentAirport.countryCode" name="countryCode">
+      </md-input-container>
+    </form>
+  </md-card-content>
+  <md-card-actions>
+    <button md-button (click)="saved.emit(currentAirport)" [disabled]="!formRef.valid">Save</button>
+    <button md-button (click)="cancelled.emit()">Cancel</button>
+  </md-card-actions>
+</md-card>

@@ -1,0 +1,23 @@
+<md-card>
+  <md-card-header>
+    <md-card-title>
+      <h1>Airports</h1>
+    </md-card-title>
+  </md-card-header>
+  <md-card-content>
+    <md-list>
+      <md-list-item
+        *ngFor="let airport of airports"
+        (click)="selected.emit(airport)">
+        <h3 md-line>{{airport.airportName}}</h3>
+        <button md-icon-button (click)="deleted.emit(airport);$event.stopImmediatePropagation();">
+          <md-icon>close</md-icon>
+        </button>
+        <p md-line>
+          {{airport?.iataName}}
+          {{airport.iataCode}}
+        </p>
+      </md-list-item>
+    </md-list>
+  </md-card-content>
+</md-card>

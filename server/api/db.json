@@ -1,0 +1,3151 @@
+{
+  "airports": [
+    {
+      "id": "0",
+      "iataCode": "Paris Ch De",
+      "iataName": "CH. DE GAULLE",
+      "airportName": "Paris Ch De Gaulle",
+      "cityName": "Paris",
+      "timeZoneGmtOffset": 3600000,
+      "timeZoneId": "Europe/Paris",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "FR",
+      "countryName": "FRANCE",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "1",
+      "iataCode": "CLT",
+      "iataName": "DOUGLAS",
+      "airportName": "Charlotte Douglas",
+      "cityName": "Charlotte",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/New_York",
+      "stateProvinceCode": "NC",
+      "stateProvinceName": "NORTH CAROLINA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "2",
+      "iataCode": "DFW",
+      "iataName": "DALLAS/FT WORTH INTL",
+      "airportName": "Dallas Fort Worth International",
+      "cityName": "Dallas/Fort Worth",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Chicago",
+      "stateProvinceCode": "TX",
+      "stateProvinceName": "TEXAS",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "3",
+      "iataCode": "FDF",
+      "iataName": "LAMENTIN",
+      "airportName": "Fort De France Lamentin",
+      "cityName": "Fort De France",
+      "timeZoneGmtOffset": -14400000,
+      "timeZoneId": "America/Martinique",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "MQ",
+      "countryName": "MARTINIQUE",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "4",
+      "iataCode": "JAC",
+      "iataName": "JACKSON HOLE",
+      "airportName": "Jackson Hole Airport",
+      "cityName": "Jackson Hole",
+      "timeZoneGmtOffset": -25200000,
+      "timeZoneId": "America/Denver",
+      "stateProvinceCode": "WY",
+      "stateProvinceName": "WYOMING",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "5",
+      "iataCode": "JFK",
+      "iataName": "JOHN F KENNEDY INTL",
+      "airportName": "New York John F Kennedy Intl",
+      "cityName": "New York City",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/New_York",
+      "stateProvinceCode": "NY",
+      "stateProvinceName": "NEW YORK",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "6",
+      "iataCode": "LAX",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Los Angeles International",
+      "cityName": "Los Angeles",
+      "timeZoneGmtOffset": -28800000,
+      "timeZoneId": "America/Los_Angeles",
+      "stateProvinceCode": "CA",
+      "stateProvinceName": "CALIFORNIA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "7",
+      "iataCode": "LHR",
+      "iataName": "HEATHROW",
+      "airportName": "London Heathrow",
+      "cityName": "London",
+      "timeZoneGmtOffset": 0,
+      "timeZoneId": "Europe/London",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "GB",
+      "countryName": "UNITED KINGDOM",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "8",
+      "iataCode": "MEX",
+      "iataName": "JUAREZ INTERNATIONAL",
+      "airportName": "Mexico City Benito Juarez International",
+      "cityName": "Mexico City",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Mexico_City",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "MX",
+      "countryName": "MEXICO",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "9",
+      "iataCode": "ORD",
+      "iataName": "O'HARE INTERNATIONAL",
+      "airportName": "Chicago OHare International",
+      "cityName": "Chicago",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Chicago",
+      "stateProvinceCode": "IL",
+      "stateProvinceName": "ILLINOIS",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "10",
+      "iataCode": "PAP",
+      "iataName": "MAIS GATE",
+      "airportName": "Port Au Prince Mais Gate",
+      "cityName": "Port-Au-Prince",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/Port-au-Prince",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "HT",
+      "countryName": "HAITI",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "11",
+      "iataCode": "PHL",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Philadelphia International",
+      "cityName": "Philadelphia",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/New_York",
+      "stateProvinceCode": "PA",
+      "stateProvinceName": "PENNSYLVANIA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "12",
+      "iataCode": "PLS",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Providenciales International",
+      "cityName": "Providenciales",
+      "timeZoneGmtOffset": -14400000,
+      "timeZoneId": "America/Grand_Turk",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "TC",
+      "countryName": "TURKS AND CAICOS ISLANDS",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "13",
+      "iataCode": "PHX",
+      "iataName": "SKY HARBOR INTL",
+      "airportName": "Phoenix Sky Harbor Intl",
+      "cityName": "Phoenix",
+      "timeZoneGmtOffset": -25200000,
+      "timeZoneId": "America/Phoenix",
+      "stateProvinceCode": "AZ",
+      "stateProvinceName": "ARIZONA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "14",
+      "iataCode": "PUJ",
+      "iataName": "PUNTA CANA",
+      "airportName": "Punta Cana",
+      "cityName": "Punta Cana",
+      "timeZoneGmtOffset": -14400000,
+      "timeZoneId": "America/Santo_Domingo",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "DO",
+      "countryName": "DOMINICAN REPUBLIC",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "15",
+      "iataCode": "SEA",
+      "iataName": "SEATTLE/TACOMA INTL",
+      "airportName": "Seattle Tacoma Intl",
+      "cityName": "Seattle",
+      "timeZoneGmtOffset": -28800000,
+      "timeZoneId": "America/Los_Angeles",
+      "stateProvinceCode": "WA",
+      "stateProvinceName": "WASHINGTON",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "16",
+      "iataCode": "STL",
+      "iataName": "LAMBERT-ST LOUIS INTL",
+      "airportName": "Lambert St Louis Intl",
+      "cityName": "St. Louis",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Chicago",
+      "stateProvinceCode": "MO",
+      "stateProvinceName": "MISSOURI",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "17",
+      "iataCode": "TLV",
+      "iataName": "BEN GURION INTL",
+      "airportName": "Tel Aviv Yafo Ben Gurion Intl",
+      "cityName": "Tel Aviv",
+      "timeZoneGmtOffset": 7200000,
+      "timeZoneId": "Asia/Jerusalem",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "IL",
+      "countryName": "ISRAEL",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "18",
+      "iataCode": "TYO",
+      "iataName": "METROPOLITAN AREA",
+      "airportName": "Tokyo",
+      "cityName": "Tokyo",
+      "timeZoneGmtOffset": 32400000,
+      "timeZoneId": "Asia/Tokyo",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "JP",
+      "countryName": "JAPAN",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "19",
+      "iataCode": "YVR",
+      "iataName": "VANCOUVER INTL",
+      "airportName": "Vancouver Intl",
+      "cityName": "Vancouver",
+      "timeZoneGmtOffset": -28800000,
+      "timeZoneId": "America/Vancouver",
+      "stateProvinceCode": "BC",
+      "stateProvinceName": "BRITISH COLUMBIA",
+      "countryCode": "CA",
+      "countryName": "CANADA",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "20",
+      "iataCode": "MSN",
+      "iataName": "DANE COUNTY REGIONAL",
+      "airportName": "Madison Dane County Regional",
+      "cityName": "Madison",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Chicago",
+      "stateProvinceCode": "WI",
+      "stateProvinceName": "WISCONSIN",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "21",
+      "iataCode": "MIA",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Miami International",
+      "cityName": "Miami",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/New_York",
+      "stateProvinceCode": "FL",
+      "stateProvinceName": "FLORIDA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "22",
+      "iataCode": "MAD",
+      "iataName": "BARAJAS",
+      "airportName": "Madrid Barajas",
+      "cityName": "Madrid",
+      "timeZoneGmtOffset": 3600000,
+      "timeZoneId": "Europe/Madrid",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "ES",
+      "countryName": "SPAIN",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "23",
+      "iataCode": "FRA",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Frankfurt International",
+      "cityName": "Frankfurt",
+      "timeZoneGmtOffset": 3600000,
+      "timeZoneId": "Europe/Berlin",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "DE",
+      "countryName": "GERMANY",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "24",
+      "iataCode": "SJC",
+      "iataName": "MUNICIPAL",
+      "airportName": "San Jose International",
+      "cityName": "San Jose",
+      "timeZoneGmtOffset": -28800000,
+      "timeZoneId": "America/Los_Angeles",
+      "stateProvinceCode": "CA",
+      "stateProvinceName": "CALIFORNIA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "25",
+      "iataCode": "LAS",
+      "iataName": "MCCARRAN INTL",
+      "airportName": "Las Vegas McCarran Intl",
+      "cityName": "Las Vegas",
+      "timeZoneGmtOffset": -28800000,
+      "timeZoneId": "America/Los_Angeles",
+      "stateProvinceCode": "NV",
+      "stateProvinceName": "NEVADA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "26",
+      "iataCode": "MCO",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Orlando International",
+      "cityName": "Orlando",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/New_York",
+      "stateProvinceCode": "FL",
+      "stateProvinceName": "FLORIDA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "27",
+      "iataCode": "BOS",
+      "iataName": "LOGAN INTERNATIONAL",
+      "airportName": "Boston Logan International",
+      "cityName": "Boston",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/New_York",
+      "stateProvinceCode": "MA",
+      "stateProvinceName": "MASSACHUSETTS",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "28",
+      "iataCode": "RNO",
+      "iataName": "RENO/TAHOE INT'L",
+      "airportName": "Reno Tahoe Intl",
+      "cityName": "Reno",
+      "timeZoneGmtOffset": -28800000,
+      "timeZoneId": "America/Los_Angeles",
+      "stateProvinceCode": "NV",
+      "stateProvinceName": "NEVADA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "29",
+      "iataCode": "ABQ",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Albuquerque International",
+      "cityName": "Albuquerque",
+      "timeZoneGmtOffset": -25200000,
+      "timeZoneId": "America/Denver",
+      "stateProvinceCode": "NM",
+      "stateProvinceName": "NEW MEXICO",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "30",
+      "iataCode": "CUN",
+      "iataName": "CANCUN",
+      "airportName": "Cancun",
+      "cityName": "Cancun",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/Cancun",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "MX",
+      "countryName": "MEXICO",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "31",
+      "iataCode": "MSP",
+      "iataName": "ST PAUL INTL",
+      "airportName": "Minneapolis St Paul International",
+      "cityName": "Minneapolis/St Paul",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Chicago",
+      "stateProvinceCode": "MN",
+      "stateProvinceName": "MINNESOTA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "32",
+      "iataCode": "PVR",
+      "iataName": "ORDAZ",
+      "airportName": "Puerto Vallarta Gustavo Diaz Ordaz",
+      "cityName": "Puerto Vallarta",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Mexico_City",
+      "stateProvinceCode": null,
+      "stateProvinceName": null,
+      "countryCode": "MX",
+      "countryName": "MEXICO",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "33",
+      "iataCode": "HNL",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Honolulu International Airport",
+      "cityName": "Honolulu",
+      "timeZoneGmtOffset": -36000000,
+      "timeZoneId": "Pacific/Honolulu",
+      "stateProvinceCode": "HI",
+      "stateProvinceName": "HAWAII",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "34",
+      "iataCode": "SFO",
+      "iataName": "INTERNATIONAL",
+      "airportName": "San Francisco International",
+      "cityName": "San Francisco",
+      "timeZoneGmtOffset": -28800000,
+      "timeZoneId": "America/Los_Angeles",
+      "stateProvinceCode": "CA",
+      "stateProvinceName": "CALIFORNIA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "35",
+      "iataCode": "TUL",
+      "iataName": "INTERNATIONAL",
+      "airportName": "Tulsa International",
+      "cityName": "Tulsa",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Chicago",
+      "stateProvinceCode": "OK",
+      "stateProvinceName": "OKLAHOMA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "36",
+      "iataCode": "MSY",
+      "iataName": "LOUIS ARMSTRONG INT'L",
+      "airportName": "New Orleans Louis Armstrong Intl",
+      "cityName": "New Orleans",
+      "timeZoneGmtOffset": -21600000,
+      "timeZoneId": "America/Chicago",
+      "stateProvinceCode": "LA",
+      "stateProvinceName": "LOUISIANA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "37",
+      "iataCode": "ATL",
+      "iataName": "WILLIAM B HARTSFIELD",
+      "airportName": "Atlanta Hartsfield Jackson",
+      "cityName": "Atlanta",
+      "timeZoneGmtOffset": -18000000,
+      "timeZoneId": "America/New_York",
+      "stateProvinceCode": "GA",
+      "stateProvinceName": "GEORGIA",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "id": "38",
+      "iataCode": "DEN",
+      "iataName": "DENVER INTERNATIONAL",
+      "airportName": "Denver International",
+      "cityName": "Denver",
+      "timeZoneGmtOffset": -25200000,
+      "timeZoneId": "America/Denver",
+      "stateProvinceCode": "CO",
+      "stateProvinceName": "COLORADO",
+      "countryCode": "US",
+      "countryName": "UNITED STATES",
+      "latitude": 0,
+      "longitude": 0
+    }
+  ],
+  "flights": [
+    {
+      "id": "0",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "5551",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T17:35:00-0500",
+              "arrivalDatetime": "2017-06-29T01:56:00-0500",
+              "nonRevCounts": [],
+              "origin": "CLI",
+              "destination": "PHL",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "5552",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T18:35:00-0500",
+              "arrivalDatetime": "2017-06-29T02:56:00-0500",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "PHL",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "5553",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T19:35:00-0500",
+              "arrivalDatetime": "2017-06-29T03:56:00-0500",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "PHL",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "5554",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T20:35:00-0500",
+              "arrivalDatetime": "2017-06-29T04:56:00-0500",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "PHL",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "duration": 135,
+      "flightSegments": [
+        {
+          "flightNumber": "9771",
+          "displayCarrier": "AA",
+          "duration": 135,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T23:15:00-0500",
+              "arrivalDatetime": "2017-07-09T01:30:00-0500",
+              "nonRevCounts": [],
+              "origin": "PHL",
+              "destination": "CLT",
+              "operatingDisclosure": "",
+              "operatingCarrier": null,
+              "duration": 135,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 34
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "duration": 90,
+      "flightSegments": [
+        {
+          "flightNumber": "9772",
+          "displayCarrier": "AA",
+          "duration": 90,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T18:35:00-0500",
+              "arrivalDatetime": "2017-07-08T20:05:00-0500",
+              "nonRevCounts": [],
+              "origin": "PHL",
+              "destination": "CLT",
+              "operatingDisclosure": "",
+              "operatingCarrier": null,
+              "duration": 90,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "duration": 160,
+      "flightSegments": [
+        {
+          "flightNumber": "9773",
+          "displayCarrier": "AA",
+          "duration": 160,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T21:35:00-0500",
+              "arrivalDatetime": "2017-07-09T00:15:00-0500",
+              "nonRevCounts": [],
+              "origin": "PHL",
+              "destination": "CLT",
+              "operatingDisclosure": "PIEDMONT AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 160,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 15
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "9774",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T18:35:00-0500",
+              "arrivalDatetime": "2017-07-09T19:56:00-0500",
+              "nonRevCounts": [],
+              "origin": "PHL",
+              "destination": "CLT",
+              "operatingDisclosure": "",
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 15
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "6661",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T17:35:00-0500",
+              "arrivalDatetime": "2017-06-29T01:56:00-0000",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "LHR",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "6662",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T18:35:00-0500",
+              "arrivalDatetime": "2017-06-29T02:56:00-0000",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "LHR",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "6663",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T19:35:00-0500",
+              "arrivalDatetime": "2017-06-29T03:56:00-0000",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "LHR",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "duration": 81,
+      "flightSegments": [
+        {
+          "flightNumber": "6664",
+          "displayCarrier": "AA",
+          "duration": 81,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T20:35:00-0500",
+              "arrivalDatetime": "2017-06-29T04:56:00-0000",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "LHR",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 81,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "duration": 235,
+      "flightSegments": [
+        {
+          "flightNumber": "3221",
+          "displayCarrier": "AA",
+          "duration": 235,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T00:10:00-0000",
+              "arrivalDatetime": "2017-07-10T23:05:00-0500",
+              "nonRevCounts": [],
+              "origin": "LHR",
+              "destination": "CLT",
+              "operatingDisclosure": "",
+              "operatingCarrier": null,
+              "duration": 235,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 15
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "duration": 200,
+      "flightSegments": [
+        {
+          "flightNumber": "3222",
+          "displayCarrier": "AA",
+          "duration": 200,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T18:35:00-0000",
+              "arrivalDatetime": "2017-07-08T16:55:00-0500",
+              "nonRevCounts": [],
+              "origin": "LHR",
+              "destination": "CLT",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 200,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "duration": 300,
+      "flightSegments": [
+        {
+          "flightNumber": "4333",
+          "displayCarrier": "AA",
+          "duration": 300,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T23:45:00-0000",
+              "arrivalDatetime": "2017-07-08T23:45:00-0500",
+              "nonRevCounts": [],
+              "origin": "LHR",
+              "destination": "CLT",
+              "operatingDisclosure": "MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 300,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 18
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "duration": 200,
+      "flightSegments": [
+        {
+          "flightNumber": "4334",
+          "displayCarrier": "AA",
+          "duration": 200,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T01:15:00-0000",
+              "arrivalDatetime": "2017-07-10T23:35:00-0500",
+              "nonRevCounts": [],
+              "origin": "LHR",
+              "destination": "CLT",
+              "operatingDisclosure": "",
+              "operatingCarrier": null,
+              "duration": 200,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 0,
+                    "authorizationLevel": 0,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 0
+                  }
+                ],
+                "eCount": 20
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "duration": 181,
+      "flightSegments": [
+        {
+          "flightNumber": "1451",
+          "displayCarrier": "AA",
+          "duration": 181,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T05:10:00-0700",
+              "arrivalDatetime": "2017-06-28T08:11:00-0700",
+              "nonRevCounts": [],
+              "origin": "DEN",
+              "destination": "SJD",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 181,
+              "mileage": 50,
+              "equipmentType": "Airbus A321",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "321",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": false,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "FIRST",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 12,
+                    "authorizationLevel": 12,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 12
+                  },
+                  {
+                    "cabinType": "PREMIUM",
+                    "aircraftCapacity": 30,
+                    "authorizationLevel": 30,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 30
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 150,
+                    "authorizationLevel": 155,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 150
+                  }
+                ],
+                "eCount": 39
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "duration": 181,
+      "flightSegments": [
+        {
+          "flightNumber": "240",
+          "displayCarrier": "AA",
+          "duration": 181,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T09:45:00-0700",
+              "arrivalDatetime": "2017-06-28T12:46:00-0700",
+              "nonRevCounts": [],
+              "origin": "DEN",
+              "destination": "SJD",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 181,
+              "mileage": 0,
+              "equipmentType": "Airbus A319",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "319",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "FIRST",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 16,
+                    "authorizationLevel": 16,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 6
+                  },
+                  {
+                    "cabinType": "PREMIUM",
+                    "aircraftCapacity": 30,
+                    "authorizationLevel": 30,
+                    "legSeatsAvailable": 6,
+                    "baseSeatsSold": 24
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 156,
+                    "authorizationLevel": 158,
+                    "legSeatsAvailable": 20,
+                    "baseSeatsSold": 136
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "duration": 181,
+      "flightSegments": [
+        {
+          "flightNumber": "414",
+          "displayCarrier": "AA",
+          "duration": 181,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T10:00:00-0700",
+              "arrivalDatetime": "2017-06-28T13:01:00-0700",
+              "nonRevCounts": [],
+              "origin": "DEN",
+              "destination": "SJD",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 181,
+              "mileage": 0,
+              "equipmentType": "Airbus A321",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "321",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": false,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "FIRST",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 8,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 16,
+                    "authorizationLevel": 16,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 16
+                  },
+                  {
+                    "cabinType": "PREMIUM",
+                    "aircraftCapacity": 30,
+                    "authorizationLevel": 30,
+                    "legSeatsAvailable": 2,
+                    "baseSeatsSold": 28
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 171,
+                    "authorizationLevel": 176,
+                    "legSeatsAvailable": 11,
+                    "baseSeatsSold": 160
+                  }
+                ],
+                "eCount": 26
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "duration": 181,
+      "flightSegments": [
+        {
+          "flightNumber": "744",
+          "displayCarrier": "AA",
+          "duration": 181,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T12:35:00-0700",
+              "arrivalDatetime": "2017-06-28T15:36:00-0700",
+              "nonRevCounts": [],
+              "origin": "DEN",
+              "destination": "SJD",
+              "operatingDisclosure": "MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 181,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "FIRST",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 12,
+                    "authorizationLevel": 12,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 12
+                  },
+                  {
+                    "cabinType": "PREMIUM",
+                    "aircraftCapacity": 30,
+                    "authorizationLevel": 30,
+                    "legSeatsAvailable": 12,
+                    "baseSeatsSold": 18
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 134,
+                    "authorizationLevel": 138,
+                    "legSeatsAvailable": 11,
+                    "baseSeatsSold": 123
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "duration": 139,
+      "flightSegments": [
+        {
+          "flightNumber": "7451",
+          "displayCarrier": "AA",
+          "duration": 139,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T05:10:00-0700",
+              "arrivalDatetime": "2017-06-28T06:29:00-0800",
+              "nonRevCounts": [],
+              "origin": "DEN",
+              "destination": "RNO",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 139,
+              "mileage": 50,
+              "equipmentType": "Airbus A321",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "321",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": false,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "FIRST",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 1,
+                    "baseSeatsSold": 7
+                  },
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 12,
+                    "authorizationLevel": 12,
+                    "legSeatsAvailable": 2,
+                    "baseSeatsSold": 10
+                  },
+                  {
+                    "cabinType": "PREMIUM",
+                    "aircraftCapacity": 30,
+                    "authorizationLevel": 30,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 20
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 150,
+                    "authorizationLevel": 155,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 150
+                  }
+                ],
+                "eCount": 39
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "duration": 139,
+      "flightSegments": [
+        {
+          "flightNumber": "270",
+          "displayCarrier": "AA",
+          "duration": 139,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T09:45:00-0700",
+              "arrivalDatetime": "2017-06-28T11:04:00-0800",
+              "nonRevCounts": [],
+              "origin": "DEN",
+              "destination": "RNO",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 139,
+              "mileage": 0,
+              "equipmentType": "Airbus A319",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "319",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "FIRST",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 6,
+                    "baseSeatsSold": 2
+                  },
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 16,
+                    "authorizationLevel": 16,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 6
+                  },
+                  {
+                    "cabinType": "PREMIUM",
+                    "aircraftCapacity": 30,
+                    "authorizationLevel": 30,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 30
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 156,
+                    "authorizationLevel": 158,
+                    "legSeatsAvailable": 20,
+                    "baseSeatsSold": 136
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "duration": 139,
+      "flightSegments": [
+        {
+          "flightNumber": "474",
+          "displayCarrier": "AA",
+          "duration": 139,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T10:00:00-0700",
+              "arrivalDatetime": "2017-06-28T11:19:00-0800",
+              "nonRevCounts": [],
+              "origin": "DEN",
+              "destination": "RNO",
+              "operatingDisclosure": null,
+              "operatingCarrier": null,
+              "duration": 139,
+              "mileage": 0,
+              "equipmentType": "Airbus A321",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "321",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": false,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "FIRST",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 8,
+                    "baseSeatsSold": 0
+                  },
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 16,
+                    "authorizationLevel": 16,
+                    "legSeatsAvailable": 5,
+                    "baseSeatsSold": 11
+                  },
+                  {
+                    "cabinType": "PREMIUM",
+                    "aircraftCapacity": 30,
+                    "authorizationLevel": 30,
+                    "legSeatsAvailable": 2,
+                    "baseSeatsSold": 28
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 171,
+                    "authorizationLevel": 176,
+                    "legSeatsAvailable": 11,
+                    "baseSeatsSold": 160
+                  }
+                ],
+                "eCount": 26
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "duration": 139,
+      "flightSegments": [
+        {
+          "flightNumber": "747",
+          "displayCarrier": "AA",
+          "duration": 139,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T12:35:00-0700",
+              "arrivalDatetime": "2017-06-28T13:54:00-0800",
+              "nonRevCounts": [],
+              "origin": "DEN",
+              "destination": "RNO",
+              "operatingDisclosure": "MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 139,
+              "mileage": 0,
+              "equipmentType": "Canadair Regional Jet 900",
+              "mealIconIndicator": false,
+              "aircraft": {
+                "code": "CR9",
+                "wifi": null,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "FIRST",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 6,
+                    "baseSeatsSold": 2
+                  },
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 12,
+                    "authorizationLevel": 12,
+                    "legSeatsAvailable": 5,
+                    "baseSeatsSold": 7
+                  },
+                  {
+                    "cabinType": "PREMIUM",
+                    "aircraftCapacity": 30,
+                    "authorizationLevel": 30,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 30
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 134,
+                    "authorizationLevel": 138,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 134
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "duration": 240,
+      "flightSegments": [
+        {
+          "flightNumber": "1618",
+          "displayCarrier": "AA",
+          "duration": 240,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T07:35:00-0800",
+              "arrivalDatetime": "2017-06-28T11:35:00-0800",
+              "nonRevCounts": [],
+              "origin": "DFW",
+              "destination": "YVR",
+              "operatingDisclosure": "MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 240,
+              "mileage": 0,
+              "equipmentType": "Boeing 737-800",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "737",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 166
+                  }
+                ],
+                "eCount": 15
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "duration": 240,
+      "flightSegments": [
+        {
+          "flightNumber": "1619",
+          "displayCarrier": "AA",
+          "duration": 240,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T011:35:00-0800",
+              "arrivalDatetime": "2017-06-28T15:35:00-0800",
+              "nonRevCounts": [],
+              "origin": "DFW",
+              "destination": "YVR",
+              "operatingDisclosure": "MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 240,
+              "mileage": 0,
+              "equipmentType": "Boeing 737-800",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "737",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 3,
+                    "baseSeatsSold": 5
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 176
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "duration": 240,
+      "flightSegments": [
+        {
+          "flightNumber": "621",
+          "displayCarrier": "AA",
+          "duration": 240,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T15:35:00-0800",
+              "arrivalDatetime": "2017-06-28T19:35:00-0800",
+              "nonRevCounts": [],
+              "origin": "DFW",
+              "destination": "YVR",
+              "operatingDisclosure": "MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 240,
+              "mileage": 0,
+              "equipmentType": "Boeing 737-800",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "737",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 177
+                  }
+                ],
+                "eCount": 8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "duration": 240,
+      "flightSegments": [
+        {
+          "flightNumber": "622",
+          "displayCarrier": "AA",
+          "duration": 240,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T19:35:00-0800",
+              "arrivalDatetime": "2017-06-28T23:35:00-0800",
+              "nonRevCounts": [],
+              "origin": "DFW",
+              "destination": "YVR",
+              "operatingDisclosure": "MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 240,
+              "mileage": 0,
+              "equipmentType": "Boeing 737-800",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "737",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 1,
+                    "baseSeatsSold": 7
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 179
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "duration": 242,
+      "flightSegments": [
+        {
+          "flightNumber": "1618",
+          "displayCarrier": "AA",
+          "duration": 242,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T07:35:00-0800",
+              "arrivalDatetime": "2017-07-08T13:35:00-0600",
+              "nonRevCounts": [],
+              "origin": "YVR",
+              "destination": "DFW",
+              "operatingDisclosure": "OPERATED BY MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 242,
+              "mileage": 0,
+              "equipmentType": "Boeing 737-800",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "737",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 166
+                  }
+                ],
+                "eCount": 15
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "duration": 242,
+      "flightSegments": [
+        {
+          "flightNumber": "1619",
+          "displayCarrier": "AA",
+          "duration": 242,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T011:35:00-0800",
+              "arrivalDatetime": "2017-07-08T18:35:00-0600",
+              "nonRevCounts": [],
+              "origin": "YVR",
+              "destination": "DFW",
+              "operatingDisclosure": "OPERATED BY MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 242,
+              "mileage": 0,
+              "equipmentType": "Boeing 737-800",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "737",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 3,
+                    "baseSeatsSold": 5
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 176
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "duration": 242,
+      "flightSegments": [
+        {
+          "flightNumber": "621",
+          "displayCarrier": "AA",
+          "duration": 242,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T15:35:00-0800",
+              "arrivalDatetime": "2017-07-08T21:35:00-0600",
+              "nonRevCounts": [],
+              "origin": "YVR",
+              "destination": "DFW",
+              "operatingDisclosure": "OPERATED BY MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 242,
+              "mileage": 0,
+              "equipmentType": "Boeing 737-800",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "737",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 177
+                  }
+                ],
+                "eCount": 8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "duration": 242,
+      "flightSegments": [
+        {
+          "flightNumber": "622",
+          "displayCarrier": "AA",
+          "duration": 242,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T19:35:00-0800",
+              "arrivalDatetime": "2017-07-09T02:35:00-0600",
+              "nonRevCounts": [],
+              "origin": "YVR",
+              "destination": "DFW",
+              "operatingDisclosure": "OPERATED BY MESA AIRLINES AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 242,
+              "mileage": 0,
+              "equipmentType": "Boeing 737-800",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "737",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 1,
+                    "baseSeatsSold": 7
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 179
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "duration": 611,
+      "flightSegments": [
+        {
+          "flightNumber": "2001",
+          "displayCarrier": "AA",
+          "duration": 141,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T05:10:00-0600",
+              "arrivalDatetime": "2017-06-28T07:31:00-0600",
+              "nonRevCounts": [],
+              "origin": "DFW",
+              "destination": "ORD",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 141,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 166
+                  }
+                ],
+                "eCount": 12
+              }
+            }
+          ]
+        },
+        {
+          "flightNumber": "2002",
+          "displayCarrier": "AA",
+          "duration": 470,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T08:50:00-0600",
+              "arrivalDatetime": "2017-06-28T22:40:00-0000",
+              "nonRevCounts": [],
+              "origin": "ORD",
+              "destination": "LHR",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 470,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 166
+                  }
+                ],
+                "eCount": 15
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "duration": 601,
+      "flightSegments": [
+        {
+          "flightNumber": "2003",
+          "displayCarrier": "AA",
+          "duration": 141,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T13:35:00-0600",
+              "arrivalDatetime": "2017-06-28T16:56:00-0600",
+              "nonRevCounts": [],
+              "origin": "DFW",
+              "destination": "CLT",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 141,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 3,
+                    "baseSeatsSold": 5
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 176
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        },
+        {
+          "flightNumber": "2004",
+          "displayCarrier": "AA",
+          "duration": 460,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T18:25:00-0600",
+              "arrivalDatetime": "2017-06-29T07:05:00-0000",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "LHR",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 460,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 11,
+                    "baseSeatsSold": 167
+                  }
+                ],
+                "eCount": 10
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "duration": 611,
+      "flightSegments": [
+        {
+          "flightNumber": "600",
+          "displayCarrier": "AA",
+          "duration": 141,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T15:35:00-0600",
+              "arrivalDatetime": "2017-06-28T17:55:00-0600",
+              "nonRevCounts": [],
+              "origin": "DFW",
+              "destination": "ORD",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 141,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 178
+                  }
+                ],
+                "eCount": 5
+              }
+            }
+          ]
+        },
+        {
+          "flightNumber": "601",
+          "displayCarrier": "AA",
+          "duration": 470,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T18:35:00-0600",
+              "arrivalDatetime": "2017-06-29T11:35:00-0000",
+              "nonRevCounts": [],
+              "origin": "ORD",
+              "destination": "LHR",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 470,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 20,
+                    "baseSeatsSold": 156
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "duration": 601,
+      "flightSegments": [
+        {
+          "flightNumber": "633",
+          "displayCarrier": "AA",
+          "duration": 141,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T19:35:00-0600",
+              "arrivalDatetime": "2017-06-28T22:35:00-0600",
+              "nonRevCounts": [],
+              "origin": "DFW",
+              "destination": "CLT",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 141,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 1,
+                    "baseSeatsSold": 7
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 179
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        },
+        {
+          "flightNumber": "1634",
+          "displayCarrier": "AA",
+          "duration": 460,
+          "legs": [
+            {
+              "departureDatetime": "2017-06-28T23:35:00-0600",
+              "arrivalDatetime": "2017-06-29T13:35:00-0000",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "LHR",
+              "operatingDisclosure": "EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 460,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 176
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "duration": 795,
+      "flightSegments": [
+        {
+          "flightNumber": "2001",
+          "displayCarrier": "AA",
+          "duration": 640,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T05:10:00-0000",
+              "arrivalDatetime": "2017-07-08T08:21:00-0600",
+              "nonRevCounts": [],
+              "origin": "LHR",
+              "destination": "ORD",
+              "operatingDisclosure": "OPERATED BY EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 640,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 166
+                  }
+                ],
+                "eCount": 12
+              }
+            }
+          ]
+        },
+        {
+          "flightNumber": "2002",
+          "displayCarrier": "AA",
+          "duration": 155,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T08:50:00-0600",
+              "arrivalDatetime": "2017-07-08T11:10:00-0600",
+              "nonRevCounts": [],
+              "origin": "ORD",
+              "destination": "DFW",
+              "operatingDisclosure": "OPERATED BY EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 155,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 10,
+                    "baseSeatsSold": 166
+                  }
+                ],
+                "eCount": 15
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "duration": 837,
+      "flightSegments": [
+        {
+          "flightNumber": "2003",
+          "displayCarrier": "AA",
+          "duration": 655,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T13:35:00-0000",
+              "arrivalDatetime": "2017-07-08T17:56:00-0500",
+              "nonRevCounts": [],
+              "origin": "LHR",
+              "destination": "CLT",
+              "operatingDisclosure": "OPERATED BY EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 655,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 3,
+                    "baseSeatsSold": 5
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 176
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        },
+        {
+          "flightNumber": "2004",
+          "displayCarrier": "AA",
+          "duration": 182,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T18:25:00-0500",
+              "arrivalDatetime": "2017-07-08T20:25:00-0600",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "DFW",
+              "operatingDisclosure": "OPERATED BY EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 182,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 11,
+                    "baseSeatsSold": 167
+                  }
+                ],
+                "eCount": 10
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "duration": 795,
+      "flightSegments": [
+        {
+          "flightNumber": "600",
+          "displayCarrier": "AA",
+          "duration": 640,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T15:35:00-0000",
+              "arrivalDatetime": "2017-07-08T18:45:00-0600",
+              "nonRevCounts": [],
+              "origin": "LHR",
+              "destination": "ORD",
+              "operatingDisclosure": "OPERATED BY EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 640,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": true,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 178
+                  }
+                ],
+                "eCount": 5
+              }
+            }
+          ]
+        },
+        {
+          "flightNumber": "837",
+          "displayCarrier": "AA",
+          "duration": 155,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T19:35:00-0600",
+              "arrivalDatetime": "2017-07-08T21:45:00-0600",
+              "nonRevCounts": [],
+              "origin": "ORD",
+              "destination": "DFW",
+              "operatingDisclosure": "OPERATED BY EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 155,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 20,
+                    "baseSeatsSold": 156
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "duration": 837,
+      "flightSegments": [
+        {
+          "flightNumber": "633",
+          "displayCarrier": "AA",
+          "duration": 655,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T19:35:00-0000",
+              "arrivalDatetime": "2017-07-08T23:45:00-0500",
+              "nonRevCounts": [],
+              "origin": "LHR",
+              "destination": "CLT",
+              "operatingDisclosure": "OPERATED BY EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 655,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 1,
+                    "baseSeatsSold": 7
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 179
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        },
+        {
+          "flightNumber": "1634",
+          "displayCarrier": "AA",
+          "duration": 182,
+          "legs": [
+            {
+              "departureDatetime": "2017-07-08T23:55:00-0500",
+              "arrivalDatetime": "2017-07-09T02:57:00-0600",
+              "nonRevCounts": [],
+              "origin": "CLT",
+              "destination": "DFW",
+              "operatingDisclosure": "OPERATED BY EXPRESSJET AS AMERICAN EAGLE",
+              "operatingCarrier": null,
+              "duration": 182,
+              "mileage": 0,
+              "equipmentType": "Boeing 787 Dreamliner",
+              "mealIconIndicator": true,
+              "aircraft": {
+                "code": "787",
+                "wifi": true,
+                "meal": ""
+              },
+              "businessAvailable": false,
+              "inventoryDetails": {
+                "cancelFlight": true,
+                "cabinInventoryDetails": [
+                  {
+                    "cabinType": "BUSINESS",
+                    "aircraftCapacity": 8,
+                    "authorizationLevel": 8,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 8
+                  },
+                  {
+                    "cabinType": "COACH",
+                    "aircraftCapacity": 176,
+                    "authorizationLevel": 180,
+                    "legSeatsAvailable": 0,
+                    "baseSeatsSold": 176
+                  }
+                ],
+                "eCount": 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

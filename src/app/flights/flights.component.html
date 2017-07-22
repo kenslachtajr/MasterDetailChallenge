@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="col-50">
+    <app-flights-list
+      [flights]="flights"
+      (selected)="setCurrentFlight($event)"
+      (deleted)="deleteFlight($event)">
+    </app-flights-list>
+  </div>
+  <div class="col-50">
+    <app-flight-details
+      [flight]="currentFlight"
+      (saved)="saveFlight($event)"
+      (cancelled)="cancel($event)">
+    </app-flight-details>
+  </div>
+</div>

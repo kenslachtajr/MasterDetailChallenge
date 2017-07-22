@@ -1,0 +1,33 @@
+<md-card>
+  <md-card-header>
+    <md-card-title>
+      <h1 *ngIf="currentFlight.id; else prompt">Editing {{currentFlight.flightSegments[0].flightNumber}}</h1>
+      <ng-template #prompt><h1>Create</h1></ng-template>
+    </md-card-title>
+  </md-card-header>
+  <md-card-content>
+    <form #formRef="ngForm">
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Origin"
+               [(ngModel)]="currentFlight.flightSegments[0].legs[0].origin" name="orig">
+      </md-input-container>
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Destination"
+               [(ngModel)]="currentFlight.flightSegments[0].legs[0].destination" name="dest">
+      </md-input-container>
+      <md-input-container class="full-width">
+        <input mdInput placeholder="Cabin Type"
+               [(ngModel)]="currentFlight.flightSegments[0].legs[0].inventoryDetails.cabinInventoryDetails[0].cabinType" name="cabinType">
+      </md-input-container>
+      <md-input-container class="full-width">
+      <input mdInput placeholder="Flight Number"
+             [(ngModel)]="currentFlight.flightSegments[0].flightNumber" name="flightNumber">
+    </md-input-container>
+
+    </form>
+  </md-card-content>
+  <md-card-actions>
+    <button md-button (click)="saved.emit(currentFlight)" [disabled]="!formRef.valid">Save</button>
+    <button md-button (click)="cancelled.emit()">Cancel</button>
+  </md-card-actions>
+</md-card>
